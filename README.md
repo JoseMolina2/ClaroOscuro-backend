@@ -50,3 +50,7 @@ CREATE TABLE clientes(
 	 Edad int,
 	 Observaciones varchar(200)
 );
+
+# Configuration
+
+Change configuration(database, user, password) on server/queries.js
